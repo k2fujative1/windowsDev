@@ -1,3 +1,6 @@
+##Author: Daniel Brown
+##Purpose: Shows the traditional fizzBuzz as a python program
+
 count = 1
 while count <101:
     if count % 15 == 0:
